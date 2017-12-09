@@ -28,3 +28,6 @@
 [submodule "Herramientas-CIAA/linux"]
 	path = Herramientas-CIAA/linux
 	url = https://github.com/ciaa/linux.git
+[submodule "Proyectos-Redes-Neuronales/makenbot"]
+	path = Proyectos-Redes-Neuronales/makenbot
+	url = https://github.com/IdleHandsProject/makennbot.git
