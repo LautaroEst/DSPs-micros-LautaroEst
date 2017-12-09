@@ -1,3 +1,30 @@
 [submodule "Documentación Útil/CIAA_ACC_Support"]
 	path = Documentación Útil/CIAA_ACC_Support
 	url = https://github.com/ciaa/CIAA_ACC_Support.git
+[submodule "Herramientas-CIAA/Hardware"]
+	path = Herramientas-CIAA/Hardware
+	url = https://github.com/ciaa/Hardware.git
+[submodule "Herramientas-CIAA/firmware_v2"]
+	path = Herramientas-CIAA/firmware_v2
+	url = https://github.com/ciaa/firmware_v2.git
+[submodule "Herramientas-CIAA/Ponchos"]
+	path = Herramientas-CIAA/Ponchos
+	url = https://github.com/ciaa/Ponchos.git
+[submodule "Herramientas-CIAA/Firmware"]
+	path = Herramientas-CIAA/Firmware
+	url = https://github.com/ciaa/Firmware.git
+[submodule "Herramientas-CIAA/EmbeddedIDE-templates"]
+	path = Herramientas-CIAA/EmbeddedIDE-templates
+	url = https://github.com/ciaa/EmbeddedIDE-templates.git
+[submodule "Herramientas-CIAA/IDE4PLC"]
+	path = Herramientas-CIAA/IDE4PLC
+	url = https://github.com/ciaa/IDE4PLC.git
+[submodule "Herramientas-CIAA/Firmata4CIAA"]
+	path = Herramientas-CIAA/Firmata4CIAA
+	url = https://github.com/ciaa/Firmata4CIAA.git
+[submodule "Herramientas-CIAA/Software-IDE"]
+	path = Herramientas-CIAA/Software-IDE
+	url = https://github.com/ciaa/Software-IDE.git
+[submodule "Herramientas-CIAA/linux"]
+	path = Herramientas-CIAA/linux
+	url = https://github.com/ciaa/linux.git

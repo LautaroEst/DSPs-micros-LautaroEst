@@ -20,20 +20,7 @@
 
 1. Redes Neuronales
 
----
 
-
-1. [CIAA ACC Support](https://github.com/ciaa/CIAA_ACC_Support.git)
-
-2. [Firmware v2](https://github.com/ciaa/firmware_v2.git)
-
-3. [Ponchos](https://github.com/ciaa/Ponchos.git)
-
-4. [RTOS Modules](https://github.com/ciaa/firmware.modules.rtos.git)
-
-5. [Firmware](https://github.com/ciaa/Firmware.git)
-
-6. [EmbeddedIDE Templates](https://github.com/ciaa/EmbeddedIDE-templates.git)
 
 
 
