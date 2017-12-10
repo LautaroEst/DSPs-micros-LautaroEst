@@ -31,3 +31,6 @@
 [submodule "Proyectos-Redes-Neuronales/makenbot"]
 	path = Proyectos-Redes-Neuronales/makenbot
 	url = https://github.com/IdleHandsProject/makennbot.git
+[submodule "Herramientas-CIAA/embedded-ide"]
+	path = Herramientas-CIAA/embedded-ide
+	url = https://github.com/martinribelotta/embedded-ide.git
