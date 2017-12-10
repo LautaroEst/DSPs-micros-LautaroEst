@@ -34,3 +34,6 @@
 [submodule "Herramientas-CIAA/embedded-ide"]
 	path = Herramientas-CIAA/embedded-ide
 	url = https://github.com/martinribelotta/embedded-ide.git
+[submodule "Herramientas-CIAA/Ciaa-Arduino"]
+	path = Herramientas-CIAA/Ciaa-Arduino
+	url = https://github.com/gramoscelli/Ciaa-Arduino.git
