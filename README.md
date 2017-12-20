@@ -6,9 +6,13 @@
 
 [Github del proyecto CIAA](https://github.com/ciaa/)
 
+* Software disponible
+
+Hasta ahora existen dos grandes opciones para programar la CIAA: o bien alguna versión de Eclipse como el LPCXpresso (cuya ventaja es que pueden usarse los ejemplos de la página) o el Kepler, Neon, etc; o bien el Embedded-IDE, desarrollado por Martín Belotta (ver carpeta Herramientas-CIAA). El Embedded-IDE creo que se puede usar en linux, pero no tiene el debugger incorporado como el Eclipse. 
+
 * Links útiles:
 
-1. [Software IDE](http://www.proyecto-ciaa.com.ar/devwiki/doku.php?id=desarrollo:software-ide)
+1. [Software IDE:](http://www.proyecto-ciaa.com.ar/devwiki/doku.php?id=desarrollo:software-ide) Este link te dirige a la página del proyecto CIAA que habla del Software IDE disponible hasta el momento. Este software sólo funciona en Windows y el github del proyecto es el submódulo de este repositorio que se encuentra en Herramientas-CIAA/Software-IDE.
 
 2. [Foro de consultas](https://groups.google.com/d/forum/embebidos32)
 
