@@ -10,6 +10,8 @@
 
 Hasta ahora existen dos grandes opciones para programar la CIAA: o bien alguna versión de Eclipse como el LPCXpresso (cuya ventaja es que pueden usarse los ejemplos de la página) o el Kepler, Neon, etc; o bien el Embedded-IDE, desarrollado por Martín Belotta (ver carpeta Herramientas-CIAA). El Embedded-IDE creo que se puede usar en linux, pero no tiene el debugger incorporado como el Eclipse. 
 
+* Programar la EDU-CIAA en Python... Para investigar: [Python-CIAA](http://www.proyecto-ciaa.com.ar/devwiki/doku.php?id=desarrollo:edu-ciaa:edu-ciaa-nxp:python)
+
 * Links útiles:
 
 1. [Software IDE:](http://www.proyecto-ciaa.com.ar/devwiki/doku.php?id=desarrollo:software-ide) Este link te dirige a la página del proyecto CIAA que habla del Software IDE disponible hasta el momento. Este software sólo funciona en Windows y el github del proyecto es el submódulo de este repositorio que se encuentra en Herramientas-CIAA/Software-IDE.
